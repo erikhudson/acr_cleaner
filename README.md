@@ -1,5 +1,6 @@
-
 # Azure Container Registry Cleaner
+
+<img src="img/acr_cleaner.webp" alt="Azure Container Registry Cleaner" width="300"/>
 
 ## Overview
 
